@@ -1,0 +1,455 @@
+/* ==================== ##Color Styles ==================== */
+
+.wgl-theme-color,
+#comments .commentlist .comment .stand_comment .meta-wrapper .comment-edit-link:hover,
+#comments .comment-reply-link:hover,
+a,
+body ol > li:before,
+blockquote cite a,
+button:not(:hover), button:focus, button:active,
+h3#reply-title a:hover,
+input[type="submit"].button_alt:hover,
+.author-info_social-wrapper,
+.page_404_wrapper .banner_404,
+.wgl-header-row-section_top a:hover,
+.button-read-more:hover,
+.blog-post_link .link_post:before,
+.blog-post_meta-categories a, .blog-post_meta-categories span,
+.blog-post_title i,
+.blog-style-standard .blog-post:hover .blog-post_wrapper .blog-post_meta_info .meta-wrapper span,
+.blog-post.format-standard.link .blog-post_title:before,
+.blog-post_cats span,
+.blog-post_meta-wrap :before,
+.primary-nav ul li ul li.current-menu-ancestor.current-menu-parent > a:after,
+.mobile_nav_wrapper .primary-nav ul li ul .menu-item.current-menu-item > a,
+.mobile_nav_wrapper .primary-nav ul ul li.menu-item.current-menu-ancestor > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current-menu-item > a, .mobile_nav_wrapper .primary-nav > ul > li.current_page_item > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current-menu-ancestor > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current-menu-parent > a, .mobile_nav_wrapper .primary-nav > ul > li.current_page_parent > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current_page_ancestor > a,
+.calendar_wrap thead,
+.copyright a:hover,
+.comment_author_says a:hover,
+.dropcap,
+.footer .wpcf7 input[type="submit"]:hover,
+.load_more_wrapper .load_more_item:hover, .load_more_wrapper .load_more_item:before, .load_more_works:hover,
+.header_search .header_search-button > i:hover,
+.header_search-field .search-form:after,
+.page_404_wrapper .iguru_404_button .wgl_button_link:hover,
+.mc_form_inside #mc_signup_submit:hover,
+.share_link span.fa:hover:before,
+.share_post span.fa:hover:before,
+.share_post-container,
+.single_team_page .team-single_speaches-info .speech-info_desc span,
+.single_team_page .team-info_wrapper .team-info_item a:hover,
+.single-member-page .member-icon:hover,
+.single-member-page .team-link:hover,
+.single_team_page .team-single_speaches-info .speech-info_day,
+.single_team_page .team-info_icons a:hover,
+.single_portfolio-wrapper .single_post_info .wgl-likes a:hover,
+.blog-post_meta-wrap,
+.team-icons .member-icon:hover,
+.vc_wp_custommenu .menu .menu-item.current-menu-item > a,
+.vc_wp_custommenu .menu .menu-item.current-menu-ancestor > a,
+.wpml-ls a:hover,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language:hover > a,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language a:hover,
+.wgl_portfolio_item-meta a:hover,
+.wgl_timetabs .timetabs_headings .wgl_tab.active .tab_subtitle,
+.wgl_timetabs .timetabs_headings .wgl_tab:hover .tab_subtitle,
+.wgl_portfolio_category-wrapper a:hover,
+.wgl_module_team .team-item_info .team-item_titles .team-title:hover,
+.wpb-js-composer .vc_row .vc_tta.vc_general .vc_active .vc_tta-panel-title > a:before,
+.wgl-social-share_pages.hovered_style ul li a:hover,
+.wpcf7 .wpcf7-response-output.wpcf7-mail-sent-ok,
+.iguru_submit_wrapper:hover > i,
+.iguru_custom_button i,
+.iguru_custom_text a,
+.iguru_module_button .wgl_button_link:hover,
+.iguru_module_counter .counter_icon,
+.iguru_module_demo_item .di_button a:hover,
+.iguru_module_demo_item .di_title_wrap a:hover .di_title,
+.iguru_module_demo_item .di_title-wrap .di_subtitle,
+.iguru_module_social .soc_icon:hover,
+.iguru_twitter a,
+.iguru_module_testimonials.type_author_top_inline .testimonials_meta_wrap:after,
+.iguru_module_testimonials .testimonials_status,
+.iguru_module_circuit_services .services_subtitle,
+.iguru_module_circuit_services .services_item-icon,
+.iguru_module_flipbox .flipbox_front .flipbox_front_content,
+.iguru_module_services_3 .services_icon_wrapper,
+.iguru_module_services_4 .services_icon,
+.iguru_module_services_4:hover .services_number,
+.iguru_module_time_line_horizontal .tlh_check_wrap,
+.iguru_module_progress_bar .progress_value_wrap,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab:not(.vc_active):hover > a,
+.prev-link_wrapper .no_image:after, .next-link_wrapper .no_image:after, 
+.prev-link_wrapper .info_wrapper > a:hover:before, .next-link_wrapper .info_wrapper > a:hover:before,
+.single_team_page .team-info_wrapper .team-department span,
+.isotope-filter a:after,
+.isotope-filter a.active, .isotope-filter a:hover,
+.wgl_portfolio_item-meta .post_cats a:hover,
+.blog-style-standard .blog-post_meta-categories span + span:before,
+.iguru_module_infobox .infobox_icon,
+.isotope-filter a .number_filter,
+.under_image .wgl_portfolio_item-title .title a:hover,
+.blog-post_meta-categories span, .blog-post_meta-categories span:after,
+.single_type-1 .single_post_info .meta-wrapper :before,
+.single_type-2 .single_post_info .meta-wrapper :before,
+ul.wp-block-archives.wp-block-archives-list li a:hover,
+ul.wp-block-categories.wp-block-categories-list li a:hover,
+ul.wp-block-categories.wp-block-categories-list li a:hover + .post_count,
+ul.wp-block-latest-posts li a:hover {
+	color: $theme_color;
+}
+
+/* ↓ learnpress ↓ */
+#learn-press-course-curriculum.course-curriculum ul.curriculum-sections .section-content .course-item.has-status.passed .course-item-status,
+#learn-press-course-curriculum.course-curriculum ul.curriculum-sections .section-content .course-item.item-preview .course-item-status:before,
+.single-lp_course .lp-single-course .course-meta .meta_data a:hover,
+.learn-press-courses .course .course-info .course-title:hover,
+.single-lp_course .course-tab-panel-reviews .course-rate .average .rating,
+.single-lp_course .course-tab-panel-instructor .author-name:hover,
+.single-lp_course .wishlist-button:before,
+.single-lp_course .course-summary .course-meta .lp-course-buttons .wishlist-button:hover,
+.learnpress .lp-user-profile .instructor__spec,
+.course-tab-panel-curriculum .course-curriculum ul.curriculum-sections .section-content .course-item.has-status.passed .course-item-status,
+.course-tab-panel-curriculum .course-curriculum ul.curriculum-sections .section-content .course-item.item-preview .course-item-status:before,
+.single-lp_course .sidebar .wgl-course-essentials .lp-course-buttons .wishlist-button:hover,
+.checkout.learnpress-page .learn-press-checkout #learn-press-order-review table tr.order-total td,
+.learn-press-courses .course .course-meta .lp-course-buttons .lp-button:hover,
+.iguru_widget.widget_lp-widget-popular-courses .course-entry .course-detail .course-meta-data [class=course-meta-field],
+.iguru_module_lp_cats .cat_counter {
+	color: $theme_color;
+}
+/* ↑ learnpress ↑ */
+
+header .header-link:hover,
+.hover_links a:hover {
+	color: $theme_color !important;
+}
+
+/* ↓ widgets ↓ */
+body .widget_nav_menu .current-menu-ancestor > a,
+body .widget_nav_menu .current-menu-item > a,
+body .widget_recent_entries  ul li .post-date,
+body .widget_rss ul li .rss-date,
+body .widget_archive ul li > a:before,
+.widget.iguru_widget ul li a:hover, .widget.iguru_widget ul li a:hover + .post_count,
+.widget.iguru_widget ul li a:hover .post_count,
+.recent-posts-widget .meta-wrapper a,
+.widget .widget-title:after,
+.iguru_banner-widget.widget.iguru_widget .banner-widget_text .tags_title:after,
+.widget.widget_archive ul li a:hover,
+.widget.widget_recent_comments ul li a,
+.widget.widget_pages ul li a:hover,
+.widget.widget_meta ul li a:hover,
+.author-widget_social a:hover,
+.widget.widget_recent_comments ul li span.comment-author-link a:hover,
+.widget.widget_recent_comments ul li a:hover,
+.widget.widget_recent_entries ul li a:hover,
+.widget.widget_nav_menu ul li a:hover,
+.author-widget_img-wrapper,
+.widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a:hover,
+.recent-posts-widget .meta-wrapper a,
+.widget_lp-widget-featured-courses.iguru_widget .course-entry .course-detail .course-title:hover,
+.widget_lp-widget-popular-courses.iguru_widget .course-entry .course-detail .course-title:hover,
+.widget_lp-widget-recent-courses.iguru_widget .course-entry .course-detail .course-title:hover {
+	color: $theme_color;
+}
+/* ↑ widgets ↑ */
+
+/* ==================== ## ↑ Color Styles ↑ ==================== */
+
+/* ==================== ## ↓ Background Styles ↓ ==================== */
+
+#multiscroll-nav span,
+#multiscroll-nav li .active span,
+#comments .comment-reply-link,
+.primary-nav > ul > li > a > span:after,
+.single_team_page .team-title:before,
+.tagcloud a:hover,
+.wgl_module_team .team-icon,
+.single_team_page .team-info_icons .team-icon,
+.single-lp_course .course-tab-panel-curriculum .curriculum-sections .section-title:after, 
+.single-lp_course .course-tab-panel-curriculum .curriculum-sections .section-title:before,
+.wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item a span:before,
+ul.iguru_plus li:after, ul.iguru_plus li:before,
+ul.iguru_dash li:before {
+	background: $theme_color;
+}
+
+::selection,
+#comments > h3:after,
+button:hover,
+mark,
+span.highlighter,
+input[type="submit"].button_alt:not(:hover),
+ul.iguru_dot li:before,
+[type="submit"] + .search__icon, .search-course-button + .search__icon,
+.vc_wp_custommenu .menu .menu-item a:before,
+.primary-nav ul li.mega-menu.mega-cat div.mega-menu-container ul.mega-menu.cats-horizontal > li.is-active > a,
+.sitepress_container > .wpml-ls ul ul li a:hover,
+.blog-post_cats span a,
+.blog-post_content .meta-wrapper.post-date .date_post,
+.calendar_wrap caption,
+.comment-reply-title:after,
+.iguru_divider .iguru_divider_line .iguru_divider_custom .divider_line,
+.iguru_module_cats .cats_item-count,
+.iguru_module_progress_bar .progress_bar,
+.iguru_module_progress_bar .progress_bar:before,
+.iguru_module_social.with_bg .soc_icon,
+.iguru_module_title:after,
+.iguru_module_title .carousel_arrows a:hover span,
+.iguru_module_videobox .videobox_link,
+.iguru_module_ico_progress .progress_completed,
+.iguru_module_services_3 .services_icon_wrapper .services_circle_wrapper .services_circle,
+.iguru_module_time_line_horizontal .tlh_check_wrap,
+.iguru_module_pricing_plan .pricing_header,
+.load_more_wrapper .load_more_item, .load_more_works,
+.mc_form_inside #mc_signup_submit,
+.author-info_wrapper,
+.wgl-social-share_pages.hovered_style .share_social-icon-plus:before, 
+.wgl-social-share_pages.hovered_style .share_social-icon-plus:after,
+.wgl-ellipsis span,
+.wgl-pagination .page:hover a,
+.wgl-pagination .page .current,
+.dropcap-bg,
+.primary-nav .lavalamp-object,
+.inside_image.offset_animation:before,
+.wgl_module_title.item_title .carousel_arrows a:hover,
+.wgl_timetabs .timetabs_headings .wgl_tab.active:after,
+.wgl-social-share_pages.standard_style a:before,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel.vc_active .vc_tta-panel-heading,
+.wpb-js-composer .wgl-container .vc_row .vc_toggle.vc_toggle_active .vc_toggle_title,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel:not(.vc_active):hover .vc_tta-panel-heading .vc_tta-panel-title,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title,
+.wpb-js-composer .wgl-container .vc_row .vc_toggle:hover .vc_toggle_title {
+	background-color: $theme_color;
+}
+
+/* ↓ learnpress ↓ */
+.wgl-theme-header .log-in.learnpress .log-link:hover,
+.wgl-theme-header .wgl-sign_in_up_form .learn-press-form-login button:not(:hover),
+.wgl-theme-header .wgl-sign_in_up_form .learn-press-form-register button:not(:hover),
+#learn-press-user-profile.guest .learn-press-form-login button:not(:hover),
+#learn-press-content-item .learn-press-message:before,
+#learn-press-content-item .answer-options .answer-option input[type="checkbox"]:checked ~ .option-title:before, 
+#learn-press-content-item .answer-options .answer-option input[type="radio"]:checked ~ .option-title:before,
+#learn-press-content-item #course-item-content-header .form-button.lp-button-back button:hover,
+#learn-press-user-profile.guest .learn-press-form-register button:not(:hover),
+.learn-press-courses .course .cat-links a:hover,
+.single-lp_course .wgl-course-essentials .title,
+.single-lp_course .course-summary .course-meta .lp-course-buttons .lp-button,
+.single-lp_course .course-summary .course-meta .lp-course-buttons button:hover,
+.learnpress .lp-user-profile.iguru__instructor .instructor__socials .social-link,
+.learnpress .lp-user-profile #learn-press-profile-content .lp-list-table thead th,
+.single-lp_course .lp-label.label-enrolled, 
+.single-lp_course .lp-label.label-started,
+.single-lp_course .learn-press-progress .progress-bg .progress-active, 
+.single-lp_course .learn-press-course-results-progress .course-progress .lp-course-status .grade.passed,
+.checkout.learnpress-page .learn-press-checkout .checkout-review-order table thead th,
+.learn-press-courses .course .course-meta .lp-course-buttons .lp-button,
+.lp-user-profile.current-user #learn-press-profile-nav:hover #profile-mobile-menu {
+	background-color: $theme_color;
+}
+/* ↑ learnpress ↑ */
+
+/* ↓ widgets ↓ */
+aside > .widget + .widget:before,
+ul.wp-block-categories.wp-block-categories-list li:before,
+.widget_pages.iguru_widget ul li:before,
+.widget_categories ul li:before, .widget_product_categories ul li:before,
+.widget .calendar_wrap table td#today:before,
+.widget .calendar_wrap tbody td > a:before,
+.widget .counter_posts,
+.widget.widget_pages ul li a:before,
+.widget.widget_nav_menu ul li a:before,
+.widget_nav_menu .menu .menu-item:before,
+.widget_postshero .recent-posts-widget .post_cat a,
+.widget_categories ul li > a:before,
+.widget_meta ul li > a:before,
+.widget_archive ul li > a:before,
+.iguru_banner-widget.widget .banner-widget_button:hover span {
+	background-color: $theme_color;
+}
+/* ↑ widgets ↑ */
+
+/* ==================== ## ↑ Background Styles ↑ =============================== */
+
+/* ==================== ## ↓ Background and Border Styles ↓ ==================== */
+
+input[type="submit"].button_hover_fill:hover,
+.iguru_404_search .search-button:hover + .search__icon,
+.blog-post_meta-date,
+.iguru_module_carousel.navigation_offset_element .slick-prev:hover, .iguru_module_carousel.navigation_offset_element .slick-next:hover,
+.iguru_module_demo_item .di_button a,
+.iguru_module_button.wgl_button:not(.btn-gradient) .wgl_button_link,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel:hover .vc_tta-panel-heading,
+.next-link:hover, .prev-link:hover {
+	border-color: $theme_color;
+	background: $theme_color;
+} 
+
+/* ==================== ## ↑ Background and Border Styles ↑ ==================== */
+
+/* ==================== ## ↓ Border Styles ↓ =================================== */
+
+body input:not([type='checkbox']):not([type='submit']):focus,
+body input:not([type='checkbox']):not([type='submit']):active,
+ul.iguru_check li:before,
+button,
+select:focus, select:active,
+textarea:focus, textarea:active,
+.iguru_module_title .carousel_arrows a:hover span:before,
+input[type="submit"].button_alt,
+.load_more_works,
+.load_more_wrapper .load_more_item,
+.author-info_social-link:after,
+.single_info-share_social-wpapper .share_link .share-icon_animation,
+.single-team .single_team_page .team-image,
+.inside_image.offset_animation:before,
+.iguru_module_videobox .videobox_link,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel.vc_active .vc_tta-panel-heading,
+.iguru_module_products_special_cats .product_special_cats-image_wrap:before,
+.iguru_module_carousel.pagination_circle .slick-dots li button,
+.footer .wpcf7 input[type="submit"]:hover,
+/* ↓ learnpress ↓ */
+.learnpress .lp-course-buttons button,
+.learnpress .lp-quiz-buttons button,
+#learn-press-content-item button,
+#learn-press-course-tabs button,
+#course-item-content-header button,
+#review-form button,
+.learnpress.learnpress-page .learn-press-pagination .page-numbers li .current,
+.learnpress.learnpress-page .learn-press-pagination .page-numbers li .page-numbers:hover,
+#learn-press-content-item .answer-option input[type="checkbox"]:after, 
+#learn-press-content-item .answer-options .answer-option input[type="radio"]:after,
+.iguru_widget.widget_lp-widget-featured-courses .course-entry .course-detail .course-meta-data .course-meta-field,
+.iguru_widget.widget_lp-widget-recent-courses .course-entry .course-detail .course-meta-data .course-meta-field,
+/* ↑ learnpress ↑ */
+.iguru_widget ul li .lp-label,
+.author-widget_social a span,
+.widget.iguru_widget.iguru_banner-widget .banner-widget_button.button-read-more,
+.content-item-summary .quiz-result .result-grade .result-achieved {
+	border-color: $theme_color;
+}
+
+/* ==================== ## ↑ Border Styles ↑ ==================== */
+
+/* ==================== ## ↓ Additional Styles ↓ ==================== */
+
+.theme_color_shadow {
+	box-shadow: 5px 6px 25px 0px rgba($hex_theme_color, 0.08);
+}
+
+.wgl_portfolio_item-wrapper.outline_animation .overlay,
+.wgl_portfolio_item-wrapper.zoom_in_animation.gallery_type:hover .overlay {
+	box-shadow: inset 0px 0px 0px 10px rgba($hex_theme_color, 1);
+}
+
+.wgl-social-share_pages.standard_style a:hover:before {
+	box-shadow: 0px 9px 30px 0px rgba($hex_theme_color_secondary, 0.4);
+}
+
+/* ==================== ## ↑ Additional Styles ↑ ==================== */
+
+/* ==================== ## ↓ Secondary Color Styles ↓ ==================== */
+
+.wgl-secondary-color,
+a:hover .wgl-icon,
+blockquote:before,
+input[type="submit"]:hover,
+.primary-nav ul li ul li:hover > a > span, .primary-nav ul li ul li:hover > a > i,
+.primary-nav ul li ul li.current-menu-item > a > span, .primary-nav ul li ul li.current-menu-item > a > i,
+.primary-nav ul li ul li.current_page_item > a > span, .primary-nav ul li ul li.current_page_item > a > i,
+.blog-post_title a:hover,
+.blog-post_link .link_post:hover,
+.blog-post.format-quote .blog-post_quote-text:before,
+.blog-post.format-link .link_post:before,
+.blog-style-standard .blog-post_info-wrap,
+.blog-posts .blog-style-medium_img .blog-post_info-wrap,
+.blog-posts .blog-style-tiny_img .blog-post_info-wrap,
+.single_type-1 .blog-post .wgl-views:hover:before,
+.single_type-1 .blog-post .comments_post:hover :before,
+.single_type-2 .blog-post .wgl-views:hover:before,
+.single_type-2 .blog-post .comments_post:hover :before,
+.blog-post_meta-categories a:hover,
+.button-read-more,
+.author_post a:hover,
+/* ↓ learnpress ↓ */
+#learn-press-course-curriculum.course-curriculum ul.curriculum-sections .section-content .course-item.item-locked .course-item-status:before,
+.single-lp_course .course-summary .course-meta .meta_title,
+.learn-press-courses .course:hover .course-meta :before, .learn-press-courses .course:hover .course-meta :after, .learn-press-courses .course:hover .course-content .course-meta.grid :before, .learn-press-courses .course:hover .course-content .course-meta.grid :after,
+.learnpress .lp-user-profile.iguru__instructor .instructor__dashboard .data__title,
+.learnpress #learn-press-profile-nav .learn-press-tabs li:hover:not(.active) > a,
+.learnpress #learn-press-profile-nav .learn-press-tabs li.active > a,
+.single-lp_course .lp-single-course .course-nav-tabs .course-nav:hover a,
+/* ↑ learnpress ↑ */
+.widget .widget-title .widget-title__text,
+.iguru_module_testimonials .testimonials_item:before,
+.iguru_module_testimonials .testimonials_position,
+.iguru_module_counter .counter_value_wrapper,
+.iguru_module_pricing_plan .pricing_desc > span,
+.iguru_module_double_headings .dlh_subtitle,
+.wgl_module_team .team-department,
+.wgl_portfolio_item-meta .post_cats, .wgl_portfolio_item-meta .post_cats a + a:before,
+.wgl-menu-module .wgl-menu-module_link-wrapper:after,
+.wgl_portfolio_item-cats, .wgl_portfolio_item-cats a + a:before,
+.course-tab-panel-curriculum .course-curriculum ul.curriculum-sections .section-content .course-item.item-locked .course-item-status:before,
+.course-curriculum ul.curriculum-sections .section-content .course-item .section-item-link,
+.content-item-summary .quiz-result.failed .result-achieved,
+.content-item-summary .quiz-result.failed .result-message strong {
+	color: $theme_secondary_color;
+}
+
+.slick-dots li button,
+.iguru_module_carousel.pagination_circle .slick-dots li:hover button,
+span.highlighter.secondary,
+.wgl-theme-header .log-in.learnpress .log-link,
+ul.iguru_dot.secondary li:before,
+ul.iguru_plus.secondary li:after, ul.iguru_plus.secondary li:before {
+	background: $theme_secondary_color;
+}
+
+input[type="submit"]:not(:hover),
+.iguru_author-widget.iguru_widget .author-widget_wrapper,
+.iguru_404_search .search__icon,
+.dropcap-bg.secondary,
+.blog-post_wrapper .blog-post_media .iguru_module_videobox .videobox_link,
+.primary-nav > ul > li > a > span:before,
+.prev-link_wrapper .info_wrapper .image_prev:before,
+.next-link_wrapper .info_wrapper .image_next:before,
+.search-button:hover + .search__icon,
+.iguru_module_carousel .slick-arrow,
+.iguru_module_carousel.pagination_circle_border .slick-dots li.slick-active button,
+.iguru_module_carousel.pagination_line .slick-dots li button:before,
+.iguru_module_carousel.pagination_square .slick-dots li,
+.iguru_module_carousel.pagination_circle .slick-dots li.slick-active button:before,
+/* ↓ learnpress ↓ */
+.wgl-theme-header .wgl-sign_in_up_form .sign-in-up-tabs li.active,
+.learn-press-courses .course .cat-links a,
+.single-lp_course .course-tab-panel-reviews .precise .rating,
+.single-lp_course .sidebar .wgl-course-essentials .lp-course-buttons,
+.single-lp_course .lp-single-course .course-nav-tabs .course-nav.active,
+.learnpress #learn-press-profile-content .lp-tab-sections .section-tab.active,
+.learnpress #learn-press-profile-content .lp-tab-sections .section-tab:hover,
+/* ↑ learnpress ↑ */
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab.vc_active,
+.iguru_banner-widget.widget .banner-widget_button span {
+	background-color: $theme_secondary_color;
+}
+
+input[type="submit"],
+ul.iguru_check.secondary li:before,
+.iguru_module_carousel.pagination_circle_border .slick-dots li button {
+	border-color: $theme_secondary_color;
+}
+
+input[type="submit"].button_alt.button_hover_fill:hover {
+	border-color: $theme_secondary_color;
+	background-color: $theme_secondary_color;
+}
+
+/* ==================== ## ↑ Secondary Color Styles ↑ ==================== */

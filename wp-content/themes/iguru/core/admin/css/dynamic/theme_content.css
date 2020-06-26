@@ -1,0 +1,370 @@
+/* ==================== ## ↓ Body Styles ↓ ==================== */
+
+body {
+	font-family: $content_font_family;
+	font-size: $content_font_size;
+	line-height: $content_line_height;
+	font-weight: $content_font_weight;
+	color: $content_color;
+}
+
+/* ==================== ## ↑ Body Styles ↑ ==================== */
+
+/* ==================== ## ↓ Content Features ↓ ==================== */
+
+#comments .commentlist .comment_info .meta-wrapper *,
+textarea,
+body input:not([type='checkbox']):not([type='submit']),
+.blog-post_info-wrap > .meta-wrapper *,
+.single-team .single_team_page .team-info_item h5 + span,
+.isotope-filter a .number_filter,
+.portfolio_info_item-info_desc h5,
+.iguru_module_time_line_vertical .time_line-title,
+.iguru_module_pricing_plan .pricing_price_wrap .pricing_desc {
+	font-family: $content_font_family;
+}
+
+select,
+body .footer .select__field:before,
+body input:not([type='checkbox']):not([type='submit'])::placeholder,
+ul.wgl-pagination li span,
+select::placeholder, textarea::placeholder,
+.blog-post.format-quote .blog-post_quote-author-pos,
+.vc_wp_custommenu .menu .menu-item.current-menu-item > a,
+.recent-posts-widget .meta-wrapper a:hover,
+.vc_row .vc_toggle .vc_toggle_icon,
+.iguru_module_testimonials .testimonials_quote,
+.iguru_module_message_box .message_content .message_text,
+.iguru_module_infobox .infobox_content,
+.tagcloud a,
+/* ↓ learnpress ↓ */
+#learn-press-course-curriculum.course-curriculum ul.curriculum-sections .section-content .course-item .course-item-meta .count-questions,
+#learn-press-course-curriculum.course-curriculum ul.curriculum-sections .section-content .course-item .course-item-meta .duration,
+.course-tab-panel-curriculum .course-curriculum ul.curriculum-sections .section-content .course-item .item-name,
+.course-tab-panel-curriculum .course-curriculum ul.curriculum-sections .section-content .course-item .course-item-meta .item-meta,
+.course-curriculum ul.curriculum-sections .section-content .course-item .item-name,
+.learn-press-courses .course:hover .course-info .course-excerpt,
+.single-lp_course .lp-single-course .course-meta .reviews-total,
+.learn-press-form .form-fields .form-field .description,
+/* ↑ learnpress ↑ */
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title {
+	color: $content_color;
+}
+
+.iguru_module_carousel .slick-prev:after, 
+.iguru_module_carousel .slick-next:after {
+	border-color: $content_color;
+}
+
+.iguru_module_title .external_link .button-read-more {
+	line-height: $content_line_height;
+}
+
+/* ==================== ## ↑ Content Features ↑ ==================== */
+
+/* ==================== ## ↓ Heading Features ↓==================== */
+
+h1, h2, h3, h4, h5, h6,
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.blog-post_cats,
+.column1 .item_title a,
+.tagcloud-wrapper .title_tags,
+.strip_template .strip-item a span,
+.single_team_page .team-single_speaches-info .speech-info_desc span,
+.shortcode_tab_item_title,
+.index_number,
+.primary-nav.footer-menu .menu-item a,
+.page-header_wrapper .page-header_title,
+.iguru_twitter .twitt_title {
+	font-family: $header_font_family;
+	font-weight: $header_font_weight;
+}
+
+blockquote,
+input[type="submit"], button,
+body .comment-respond .comment-reply-title,
+body .widget_rss ul li .rss-date,
+body .widget_meta a, 
+body .widget_meta .post_count,
+label,
+legend,
+select,
+.page-header_breadcrumbs .breadcrumbs,
+.wgl-social-share_pages.hovered_style .share_social-title,
+.load_more_item,
+.blog-post_text-bg,
+.author-info_name,
+.button-read-more,
+.blog-post_meta_share .share_title,
+.blog-post_meta-date .date_post, .blog-post_meta-date .date_post span,
+.theme-header-font,
+.countdown-section .countdown-amount,
+.iguru_module_progress_bar .progress_label,
+.iguru_module_double_headings,
+.iguru_module_infobox .infobox_icon_container .infobox_icon_number,
+.iguru_module_button.wgl_button .wgl_button_link,
+.iguru_module_testimonials .testimonials_item:before,
+.iguru_module_testimonials .testimonials_status,
+.iguru_module_videobox .title,
+.iguru_module_progress_bar .progress_value,
+.iguru_module_progress_bar .progress_units,
+.iguru_module_counter .counter_value_placeholder,
+.iguru_module_ico_progress .progress_value_completed,
+.iguru_module_ico_progress .progress_value_min, .iguru_module_ico_progress .progress_value_max,
+.iguru_module_ico_progress .progress_point,
+.iguru_module_flipbox .flipbox_front .flipbox_subtitle,
+.iguru_module_pricing_plan .pricing_content,
+.iguru_module_pricing_plan .pricing_desc,
+.mashsb-count .counts,
+.mashsb-box .mashsb-buttons a .text,
+.prev-link, .next-link,
+.vc_row .vc_tta.vc_general.vc_tta-style-accordion_bordered .vc_tta-panel-title>a span,
+.widget.iguru_widget.iguru_banner-widget .banner-widget_text,
+.widget.iguru_widget.iguru_banner-widget .banner-widget_text_bg,
+.widget.iguru_widget.iguru_banner-widget .banner-widget_button,
+.widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title,
+.heading_subtitle,
+.prev-link_wrapper .info_wrapper a, .next-link_wrapper .info_wrapper a,
+.single_meta .single_info-share_social-wpapper > span.share_title,
+.single_team_page .team-single_speaches-info .speech-info_day,
+.single_team_page .team-info_wrapper .team-info_item,
+.single_post_info,
+.wgl_timetabs .timetabs_headings .wgl_tab .tab_title,
+.wgl_portfolio_item-meta .post_cats,
+.wgl_portfolio_item-cats,
+.wgl-pagination .page-numbers,
+.wgl_module_team .team-department,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab > a,
+.wpb-js-composer .wgl-container .vc_chart.vc_round-chart[data-vc-legend="1"] .vc_chart-legend li,
+ul.wp-block-archives.wp-block-archives-list li a,
+ul.wp-block-latest-posts li a,
+.wp-block-latest-comments__comment,
+.iguru_module_social.full_width .soc_icon .text,
+span[class|=dropcap],
+.footer .copyright,
+.author-widget_title,
+.banner_404,
+.primary-nav ul li ul li > a:before,
+.iguru_module_counter .counter_value_wrapper,
+.iguru_module_testimonials .testimonials_name,
+.iguru_module_lp_cats .cat_name,
+.iguru-post-navigation .meta-wrapper span,
+/* ↓ learnpress ↓ */
+.learn-press-courses .course .cat-links,
+.single-lp_course .course-summary .course-meta .meta_data a,
+.learn-press-courses .course .course-info .course-instructor,
+.checkout.learnpress-page .learn-press-checkout .checkout-review-order table th,
+.learnpress .lp-user-profile #learn-press-profile-content .lp-list-table thead th,
+/* ↑ learnpress ↑ */
+.widget .widget-title:after,
+.coming_soon,
+.subtitle {
+	font-family: $header_font_family;
+}
+
+.iguru_module_time_line_horizontal .tlh_date,
+.wgl_portfolio_single-item .tagcloud .tagcloud_desc,
+.wgl_timetabs .timetabs_data .timetabs_item .item_time,
+.wgl_timetabs .timetabs_data .timetabs_item .content-wrapper .item_title,
+.single-lp_course .course-tab-panel-instructor .author-name,
+.learnpress .course-curriculum .curriculum-sections .section-content .course-item:before,
+.wpb-js-composer .wgl-container .vc_row .vc_pie_chart .vc_pie_chart_value,
+.isotope-filter a {
+	font-family: $header_font_family;
+	color: $header_font_color;
+}
+
+.theme-header-color,
+#comment .comment-reply-link:hover, #comment .comment-reply-link:focus, #comment .comment-reply-link:active,
+body .footer select option,
+button,
+blockquote,
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+h3#reply-title a,
+.calendar_wrap tbody,
+/*.comments_post a:hover,*/
+.comment_author_says, .comment_author_says a,
+.tagcloud-wrapper .title_tags,
+.iguru_module_double_headings .dlh_title,
+.iguru_module_testimonials .testimonials_item .testimonials_content_wrap .testimonials_name,
+.iguru_module_pricing_plan .pricing_plan_wrap .pricing_content > ul > li > b,
+.iguru_module_social .soc_icon,
+.iguru_module_message_box .message_close_button:hover,
+.iguru_module_counter .counter_value_wrapper,
+.iguru_module_counter .counter_title,
+.header_search .header_search-field .search-form,
+.prev-link-info_wrapper, .next-link-info_wrapper,
+.item_title a,
+.share_post-container:hover > a,
+.single_meta strong,
+.single_meta .blog-post_share-wrap > span.share_title,
+.single_meta .single_info-share_social-wpapper > span.share_title,
+.single_info-share_social-wpapper > span,
+.wgl_timetabs .timetabs_headings .wgl_tab.active .tab_title,
+.wgl_timetabs .timetabs_headings .wgl_tab:hover .tab_title,
+/* ↓ learnpress ↓ */
+.wgl-theme-header .wgl-sign_in_up_form .learn-press-form p a:hover,
+.wgl-theme-header .wgl-sign_in_up_form .sign-in-up-tabs li a,
+.wgl-theme-header .wgl-sign_in_up_form .learn-press-form label,
+.wgl-theme-header .wgl-sign_in_up_form .learn-press-form-login button:hover,
+.wgl-theme-header .wgl-sign_in_up_form .learn-press-form-register button:hover,
+#learn-press-user-profile.guest .learn-press-form button:hover,
+#learn-press-user-profile.guest label,
+.lp-user-profile.guest#learn-press-user-profile .learn-press-form-register button:hover,
+.learnpress .lp-user-profile #learn-press-profile-content .lp-tab-sections .section-tab a, .learnpress .lp-user-profile #learn-press-profile-content .lp-tab-sections .section-tab span,
+.learnpress .lp-user-profile #learn-press-profile-content .lp-list-table td.column-order-total,
+.learnpress .sidebar-container .lp-button.button,
+.learnpress .iguru__instructor .instructor__dashboard .data__value,
+.learnpress #learn-press-profile-header .profile-name,
+.single-lp_course .lp-single-course .course-meta .meta_data,
+.single-lp_course .wishlist-button,
+.learnpress.learnpress-page .learn-press-pagination .page-numbers,
+.single-lp_course .course-summary .course-tabs .course-nav-tabs .course-nav a,
+.learn-press-courses .course .course-content .course-info .course-instructor a:hover,
+.learn-press-courses .course:hover .course-content .course-title,
+.wgl-theme-header .log-in.learnpress .learn-press-message,
+.learn-press-courses .course .course-meta .lp-course-buttons .lp-button,
+.checkout.learnpress-page #learn-press-order-review table td.course-total,
+.checkout.learnpress-page #learn-press-order-review table tr.cart-subtotal td,
+/* ↑ learnpress ↑ */
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel:not(.vc_active):hover .vc_tta-panel-heading .vc_tta-panel-title,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab > a,
+.wgl_portfolio_item-wrapper .portfolio_link,
+.wgl_portfolio_item-wrapper.fade_out_animation.no-featured-img .title,
+.inside_image .wgl_portfolio_item-meta .post_cats a:hover,
+.under_image .wgl_portfolio_item-meta .post_cats a:hover,
+.wgl_portfolio_single-item .portfolio-category:hover,
+/* ↓ widgets ↓ */
+body .widget_wgl_posts .recent-posts-widget .post_title a,
+.widget.iguru_widget ul li a,
+.widget_product_search .woocommerce-product-search:after,
+.widget_categories.widget ul li a, .widget_product_categories.widget ul li a,
+.widget_recent_comments.iguru_widget .comment-author-link a, .widget_recent_comments.iguru_widget .comment-author-link,
+/* ↑ widgets ↑ */
+.wgl-theme-header ul.menu > li.mega-menu > ul.sub-menu > li.menu-item,
+.wgl-pagination .page .page-numbers,
+.wgl_module_title.item_title .carousel_arrows a span:after,
+.wgl_module_team.info_under_image .team-department,
+ul.wp-block-archives.wp-block-archives-list li a,
+ul.wp-block-categories.wp-block-categories-list li,
+ul.wp-block-latest-posts li a {
+	color: $header_font_color;
+}
+
+.iguru_module_title .carousel_arrows a span,
+.wgl_module_team .overlay,
+#learn-press-content-item #course-item-content-header {
+	background: $header_font_color;
+}
+
+.wgl_portfolio_item-wrapper.inside_image.fade_out_animation .overlay,
+.iguru_module_infobox.infobox_alignment_left.title_divider .infobox_title:before,
+.iguru_module_infobox.infobox_alignment_right.title_divider .infobox_title:before,
+.iguru_module_lp_cats .cat_wrapper,
+.learnpress .iguru__instructor .instructor__dashboard > :not(:last-child):after,
+.learnpress #learn-press-profile-nav .learn-press-tabs > li,
+.learnpress #learn-press-profile-nav .learn-press-tabs > li.has-child ul.profile-tab-sections {
+	background-color: $header_font_color;
+}
+
+.iguru_module_title .carousel_arrows a span:before {
+	border-color: $header_font_color;
+}
+
+.single-lp_course .course-tab-panel-reviews #course-reviews ul li {
+	border-color: rgba($hex_header_font_color, 0.1);
+}
+
+/* ==================== ## ↑ Heading Features ↑ ==================== */
+
+/* ==================== ## ↓ Additional Font ↓ ==================== */
+
+blockquote:before,
+blockquote cite,
+ul.wp-block-categories.wp-block-categories-list li, ul.wp-block-archives.wp-block-archives-list li,
+.iguru_widget.widget_nav_menu ul li, .iguru_widget.widget_pages ul li, .iguru_widget.widget_meta ul li,
+.comments-title .number-comments,
+.blog-post.format-quote .blog-post_quote-text:before,
+.blog-post.format-quote .blog-post_quote-author,
+.blog-post_meta-wrap,
+.blog-post_content .meta-wrapper,
+.blog-post .blog-post_likes-wrap .wgl-likes,
+.page_404_wrapper .banner_404 span,
+.isotope-filter a,
+.iguru_module_double_headings .dlh_subtitle,
+.iguru_module_counter .counter_title,
+.iguru_module_flipbox .flipbox_front .flipbox_title,
+.iguru_module_pricing_plan .pricing_plan_wrap .pricing_price_wrap,
+.iguru_module_lp_cats .cat_counter,
+.iguru_module_countdown .countdown-section .countdown-period,
+.learn-press-courses .course .cat-links a,
+.single-lp_course .wgl-course-essentials .title,
+.single-lp_course .course-summary .course-meta .meta_title,
+.single-lp_course .course-tab-panel-reviews .course-rate .average .rating,
+.widget_wgl_posts.widget .recent-posts-widget .meta-wrapper span,
+.widget_categories ul li a, .widget_product_categories ul li a,
+.widget_archive.widget a, .widget_archive.widget .post_count,
+.widget .widget-title .widget-title__text {
+	font-family: $secondary_font_family;
+}
+
+/* ==================== ## ↑ Additional Font ↑ ==================== */
+
+/* ==================== ## ↓ Additional Styles ↓ ==================== */
+
+.wgl-theme-header .wgl-sticky-header .header_search {
+	height: $header_sticky_height !important;
+}    
+
+#scroll_up {
+	background-color: $scroll_up_bg_color;
+	color: $scroll_up_arrow_color;
+}
+
+/* ↓ menu ↓ */
+.primary-nav>div>ul,
+.primary-nav>ul,
+.sitepress_container > .wpml-ls li,
+.primary-nav ul li.mega-menu-links > ul > li {
+	font-family: $menu_font_family;
+	font-weight: $menu_font_weight;
+	line-height: $menu_font_line_height;
+	font-size: $menu_font_size;
+}
+
+/* ↓ sub menu ↓ */
+.primary-nav ul li ul,
+.wpml-ls,
+.sitepress_container > .wpml-ls ul ul li,
+.primary-nav ul li div.mega-menu-container {
+	font-family: $sub_menu_font_family;
+	font-weight: $sub_menu_font_weight;
+	line-height: $sub_menu_font_line_height;
+	font-size: $sub_menu_font_size;	
+}
+
+.wgl-theme-header .header_search-field,
+.primary-nav ul li ul,
+.primary-nav ul li div.mega-menu-container,
+.wgl-theme-header .woo_mini_cart,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language .wpml-ls-sub-menu {
+	color: $sub_menu_color;
+	background-color: $sub_menu_bg;
+}
+.primary-nav ul li ul li > a > span {
+	background-color: $sub_menu_bg;
+}
+/* ↑ sub menu ↑ */
+
+.mobile_nav_wrapper,
+.wgl-menu_outer,
+.mobile_nav_wrapper .primary-nav ul li ul.sub-menu,
+.mobile_nav_wrapper .primary-nav ul li.mega-menu-links > ul.mega-menu > li > ul > li ul,
+.mobile_nav_wrapper .primary-nav ul li.mega-menu-links > ul.mega-menu > li > ul {
+	color: $mobile_sub_menu_color;
+	background-color: $mobile_sub_menu_bg;
+}
+
+/* ==================== ## ↑ Additional Styles ↑ ==================== */

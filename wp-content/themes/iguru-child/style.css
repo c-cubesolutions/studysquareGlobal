@@ -1,0 +1,15 @@
+/*
+Theme Name: Iguru Child
+Author: WebGeniusLab
+Author URI: http://webgeniuslab.net
+Description: -
+Version: 1.0
+Template: iguru
+Text Domain:  iguru-child
+*/
+.vc-zoom-wrapper {
+	cursor: default!important;
+}
+.iguru_module_carousel .slick-slide {
+	cursor: default!important;
+}

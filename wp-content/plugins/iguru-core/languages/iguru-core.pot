@@ -1,0 +1,982 @@
+# Copyright (C) 2019 WebGeniusLab
+# This file is distributed under the same license as the WebGeniusLab package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WebGeniusLab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../plugins/iguru-core/wgl-core.php:51
+msgid "\"iGuru-core\" Plugin is compatible with \"iGuru\" theme only!"
+msgstr ""
+
+#: ../../plugins/iguru-core/wgl-core.php:70
+msgid "\"iGuru-core\" Plugin compatible with \"iGuru\" theme only!"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/theme-helper-functions.php:9
+msgid "Instructor Info"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/theme-helper-functions.php:12
+msgid "Occupation"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/theme-helper-functions.php:15
+msgid "Your area of specialty. Note: can be set for LearnPress Instructors only."
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/theme-helper-functions.php:22, ../../plugins/iguru-core/includes/theme-helper/theme-helper.php:69
+msgid "Socials"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/meta-box-extensions/select_icon_field.php:56
+msgid "Icon"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/meta-box-extensions/select_icon_field.php:65
+msgid "Link"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/meta-box-extensions/select_icon_field.php:83
+msgid "Select an icon"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/theme-helper/theme-helper.php:29
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/theme-helper/theme-helper.php:30
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/theme-helper/theme-helper.php:33
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/theme-helper/theme-helper.php:36
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:11
+msgid "WGL Author Said"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:12
+msgid "WGL Widget "
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:52
+msgid "Featured author image: "
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:64
+msgid "Featured author signature: "
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:146, ../../plugins/iguru-core/includes/widgets/banner.php:173, ../../plugins/iguru-core/includes/widgets/posts.php:190, ../../plugins/iguru-core/includes/widgets/posts_hero.php:181
+msgid "Title:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:151
+msgid "Author Name:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:156
+msgid "Text:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:161
+msgid "Author Image:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:164, ../../plugins/iguru-core/includes/widgets/author.php:171, ../../plugins/iguru-core/includes/widgets/author.php:178, ../../plugins/iguru-core/includes/widgets/banner.php:147, ../../plugins/iguru-core/includes/widgets/banner.php:154
+msgid "Upload"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:168
+msgid "Background Image:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:175
+msgid "Author Signature:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:182
+msgid "Facebook:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:187
+msgid "Twitter:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:192
+msgid "Linkedin:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/author.php:197
+msgid "Instagram:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/banner.php:9
+msgid "WGL Banner"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/banner.php:10
+msgid "WGL Widget"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/banner.php:51
+msgid "Featured image: "
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/banner.php:144
+msgid "Add Logo image:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/banner.php:151
+msgid "Add background image:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/banner.php:158
+msgid "Padding Top: "
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/banner.php:163
+msgid "Padding Bottom: "
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/banner.php:168
+msgid "Sub Title:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/banner.php:179
+msgid "Show Title Tags"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/banner.php:183
+msgid "Button text:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/banner.php:189
+msgid "Button link:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:25
+msgid "Display recent posts by categories (or related)"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:28
+msgid "WGL Posts"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:120, ../../plugins/iguru-core/includes/widgets/posts_hero.php:111
+msgid "Permalink to "
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:139, ../../plugins/iguru-core/includes/widgets/posts_hero.php:132
+msgid "No posts were found for display"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:178, ../../plugins/iguru-core/includes/widgets/posts_hero.php:170
+msgid "Recent Posts"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:195, ../../plugins/iguru-core/includes/widgets/posts_hero.php:186
+msgid "Number of posts:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:201, ../../plugins/iguru-core/includes/widgets/posts_hero.php:192
+msgid "Show related category posts"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:206
+msgid "Show thumbnail image"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:210, ../../plugins/iguru-core/includes/widgets/posts_hero.php:196
+msgid "Post meta info"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:215, ../../plugins/iguru-core/includes/widgets/posts_hero.php:201
+msgid "Show date"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:219
+msgid "Show content"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:223, ../../plugins/iguru-core/includes/widgets/posts_hero.php:208
+msgid "Filter by Category:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts.php:225, ../../plugins/iguru-core/includes/widgets/posts_hero.php:210
+msgid "All categories"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts_hero.php:25
+msgid "Display posts with overlay image"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts_hero.php:28
+msgid "WGL Posts Hero"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/widgets/posts_hero.php:205
+msgid "Show categories"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/footer/class-pt-footer.php:27
+msgid "Footer"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/footer/class-pt-footer.php:29
+msgid "Footers"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/footer/class-pt-footer.php:41, ../../plugins/iguru-core/includes/post-types/footer/class-pt-footer.php:42, ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:54, ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:55, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:46, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:47
+msgid "Add New %s"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/footer/class-pt-footer.php:43, ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:56, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:48
+msgid "Edit %s"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/footer/class-pt-footer.php:44, ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:57, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:49
+msgid "New %s"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/footer/class-pt-footer.php:45, ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:58, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:50
+msgid "All %s"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/footer/class-pt-footer.php:46, ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:59, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:51
+msgid "View %s"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/footer/class-pt-footer.php:47, ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:60, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:52
+msgid "Search %s"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/footer/class-pt-footer.php:48, ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:61, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:53
+msgid "No %s found"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/footer/class-pt-footer.php:49, ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:62, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:54
+msgid "No %s found in Trash"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:28
+msgid "Portfolio"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:29
+msgid "Item"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:30
+msgid "Items"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:92, ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:93, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:78, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:79
+msgid "%s Categories"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:94, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:80
+msgid "%s Category"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:95, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:81
+msgid "Search %s Categories"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:96, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:82
+msgid "All %s Categories"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:97, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:83
+msgid "Parent %s Category"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:98, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:84
+msgid "Parent %s Category:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:99, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:85
+msgid "New %s Category Name"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:100, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:86
+msgid "Add New %s Category"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:101, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:87
+msgid "Edit %s Category"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:102, ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:88
+msgid "Update %s Category"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:118, ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:119
+msgid "Tags"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:120
+msgid "Tag"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:121
+msgid "Popular Tags"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:122
+msgid "Search Tag"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:123
+msgid "All Tags"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:126
+msgid "New Tag Name"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:127
+msgid "Add New Tag"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:128
+msgid "Edit Tag"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:129
+msgid "Update Tag"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/class-pt-portfolio.php:146
+msgid "Featured Image"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:27
+msgid "Team"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:28
+msgid "Member"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/team/class-pt-team.php:29
+msgid "Members"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:115
+msgid "WGL Select Item"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:144
+msgid "Toggle row"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:146
+msgid "Disabled row"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:151
+msgid "Edit this row"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:239
+msgid "Edit this column"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:241
+msgid "Add Item"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:264
+msgid "Select a template to start setting it up"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:271
+msgid "Save Changes"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:274
+msgid "WGL Header Options"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:304
+msgid "Are you sure want to delete the element?"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:74
+msgid "Notice:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:79
+msgid "Adding of a new template will reset all unsaved changes inside Header Builder."
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:82
+msgid "Select the Template to start setting it up."
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:85
+msgid "Be sure to click \"Save Preset\" button after modifying of each template."
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:91
+msgid "Add New Template"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:97
+msgid "Save"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:136
+msgid "TEMPLATES LIST"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:217
+msgid "Save Preset"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:223
+msgid "Rename"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:226
+msgid "Delete Preset"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:236
+msgid "Reset"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:282
+msgid "Delete Preset?"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:283
+msgid "Reset to default?"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:284
+msgid "Sorry this name is already exists"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:285
+msgid "Empty name"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:134, ../../plugins/iguru-core/includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:143
+msgid "Unlock"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:13, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:19
+msgid "Portfolio List"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:16
+msgid "WGL Modules"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:23
+msgid "Overall Layout"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:28
+msgid "Grid"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:32, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:364, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:375, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:388, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:400, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:411, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:423, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:457, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:469, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:480, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:492, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:504, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:514, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:527, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:539, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:549, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:562, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:574, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:584, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:597, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:609
+msgid "Carousel"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:36
+msgid "Masonry"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:40
+msgid "Masonry 2"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:44
+msgid "Masonry 3"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:48
+msgid "Masonry 4"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:55
+msgid "Columns Amount"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:59, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:78
+msgid "1"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:60, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:79
+msgid "2"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:61, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:80
+msgid "3"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:62, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:81
+msgid "4"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:63, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:82
+msgid "5"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:74
+msgid "Grid Gap"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:77
+msgid "0"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:83
+msgid "10"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:84
+msgid "15"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:85
+msgid "20"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:86
+msgid "25"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:87
+msgid "30"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:88
+msgid "35"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:100
+msgid "Show Filter"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:102, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:131, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:285
+msgid "Yes"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:113
+msgid "Filter Align"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:116, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:159, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:300
+msgid "Left"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:117, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:160, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:302
+msgid "Right"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:118, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:158, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:301
+msgid "Center"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:129
+msgid "Crop Images"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:137
+msgid "Navigation Type"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:142
+msgid "None"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:143
+msgid "Pagination"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:144
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:145, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:185
+msgid "Load More"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:155
+msgid "Navigation's Alignment"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:171
+msgid "Items amount to be loaded"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:183
+msgid "Button Text"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:200
+msgid "Add Appear Animation"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:206
+msgid "Animation Style"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:209
+msgid "Fade In"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:210
+msgid "Slide Top"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:211
+msgid "Slide Bottom"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:212
+msgid "Slide Left"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:213
+msgid "Slide Right"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:214
+msgid "Zoom"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:225
+msgid "Extra Class"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:227
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:231
+msgid "Action if Item Clicked"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:235
+msgid "Open Portfolio Single"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:236
+msgid "Popup the Image"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:237
+msgid "Open Custom Link"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:238
+msgid "Do Nothing"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:241, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:249, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:261, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:278, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:292, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:309, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:316, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:323, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:331, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:338, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:352
+msgid "Content"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:246
+msgid "Link the Title with Single Page"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:254
+msgid "Content Position"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:257
+msgid "Inside Image"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:258
+msgid "Under Image"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:266
+msgid "Content Appear Animation"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:269
+msgid "Fade Out"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:270
+msgid "Outline"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:271
+msgid "Zoom In"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:272
+msgid "Side Offset"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:283
+msgid "Reverse Animation?"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:287
+msgid "Show content until hover."
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:297
+msgid "Content Alignment"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:314
+msgid "Content Elements"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:320
+msgid "Show Title?"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:328
+msgid "Show Categories?"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:336
+msgid "Show Content?"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:344
+msgid "Characters Amount in Content"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:347
+msgid "Limit the content to be displayed."
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:358
+msgid "Carousel Options"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:369
+msgid "Autoplay"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:380
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:387
+msgid "Value in miliseconds."
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:394
+msgid "Slide Multiple Items"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:405
+msgid "Pagination Controls"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:416
+msgid "Add Pagination control"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:428
+msgid "Pagination Type"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:433
+msgid "Circle"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:437
+msgid "Empty Circle"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:441
+msgid "Square"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:445
+msgid "Line"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:449
+msgid "Line - Circle"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:461
+msgid "Pagination Top Offset"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:464, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:522, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:557, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:592, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:628, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:638
+msgid "Value in pixels."
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:474
+msgid "Customize Color"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:485
+msgid "Pagination Color"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:498
+msgid "Responsive Settings"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:508
+msgid "Customize Responsive"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:519
+msgid "Desktop Screen Breakpoint"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:532, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:567, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:602
+msgid "Slides to show"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:554
+msgid "Tablets Screen Breakpoint"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:589
+msgid "Mobiles Screen Breakpoint"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:616
+msgid "Typography"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:618, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:629, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:639, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:645, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:652, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:669, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:677, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:683, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:696, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:709, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:715, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:722, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:734, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:747, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:754, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:761, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:774, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:780, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:793, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:806, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:819, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:832, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:838, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:850, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:863, ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:876
+msgid "Style"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:624
+msgid "Headings Font Size"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:634
+msgid "Categories Font Size"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:650
+msgid "Customize Headings Font Family"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:661
+msgid "Select font family."
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:662
+msgid "Select font styling."
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:675
+msgid "Colors Settings"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:681
+msgid "Customize Headings"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:688
+msgid "Heading Idle"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:701
+msgid "Heading Hover"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:720
+msgid "Customize Categories"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:727
+msgid "Categories Idle"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:740
+msgid "Categories Hover"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:759
+msgid "Customize Content"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:766
+msgid "Content Color"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:785
+msgid "Customize Overlay"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:788
+msgid "Theme Default"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:789
+msgid "Color"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:790
+msgid "Gradient"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:799
+msgid "Overlay Background"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:812
+msgid "Overlay Background Start"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:825
+msgid "Overlay Background End"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:844
+msgid "Customize Outline"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:855
+msgid "Outline Color"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/options.php:868
+msgid "Outline Background"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/render.php:806
+msgid "Share Project:"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/render.php:961
+msgid "Tags: "
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/shortcodes/render.php:1003
+msgid "All"
+msgstr ""
+
+#: ../../plugins/iguru-core/includes/post-types/portfolio/templates/archive-portfolio.php:88
+msgid "Category:"
+msgstr ""
